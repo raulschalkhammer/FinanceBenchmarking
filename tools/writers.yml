@@ -9,4 +9,5 @@ maintainers:
 # drafts/<name>/-Ordner schreiben. Format:  github-username: drafts-ordnername
 writers:
   raulschalkwu: user_raul
+  raulschalkhammer: user_hammer
   agent_example: agent_example
