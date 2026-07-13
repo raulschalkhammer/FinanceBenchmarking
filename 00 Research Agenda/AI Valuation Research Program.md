@@ -31,6 +31,9 @@ Zerlegung in drei Teilfragen entlang der Bewertungskette:
 | D – Valuation / Diskontsatz | Können AI-Modelle Bewertungsinputs & Diskontsatz verbessern? | [[Valuation Literature Map]] |
 | E – Foundation Models | Eignen sich Time-Series-Transformer / Financial LLMs für Bewertung? | [[Foundation Model Literature Map]] |
 
+## Fokus-Gruppen (thematische Querschnitte)
+- [[ML Cost of Capital Literature Map]] – ML/AI × Kapitalkosten / WACC / Diskontsatz (Querschnitt über Cluster C+D)
+
 ## Eigene Projekte & Chancen
 - [[AccountingBench (WU)]] – euer Benchmark, Ausgangspunkt der Richtung
 - [[Insolvenzprognose-Tool (WU)]] – bestehendes Tool, Brücke zu Cluster D

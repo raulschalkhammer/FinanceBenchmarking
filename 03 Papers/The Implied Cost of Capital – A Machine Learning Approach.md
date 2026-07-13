@@ -24,4 +24,4 @@ GBRT ([[Gradient Boosting]]), ANN ([[Deep Neural Network]]).
 Das wichtige Korrektiv gegen Überoptimismus in der ML-ICC-Linie; die Spannung zu [[Earnings Forecast Accuracy and Implied Cost of Capital]] definiert eine offene Frage → [[Gaps – Valuation und Diskontsatz]].
 
 ## Related
-Streams: [[Discount Rate Estimation]], [[Cost of Capital]] · [[Implied Cost of Capital]]
+Streams: [[Discount Rate Estimation]], [[Cost of Capital]] · Map: [[ML Cost of Capital Literature Map]] · [[Implied Cost of Capital]]

@@ -21,4 +21,4 @@ ML schlägt Analysten und Logit; bessere Prognosen verbessern die **Diskontsatz-
 Die Brücke Inputs → Diskontsatz; Gegenspieler zu [[The Implied Cost of Capital – A Machine Learning Approach]] (dessen Befund ernüchternder ist) – **diese Spannung ist ein Forschungsfenster**.
 
 ## Related
-Streams: [[Discount Rate Estimation]], [[Cost of Capital]] · Idee: [[Distress-adjustierter Diskontsatz]] · Trend: [[Trend – ML-Based Discount Rate Estimation]]
+Streams: [[Discount Rate Estimation]], [[Cost of Capital]] · Map: [[ML Cost of Capital Literature Map]] · Idee: [[Distress-adjustierter Diskontsatz]] · Trend: [[Trend – ML-Based Discount Rate Estimation]]
